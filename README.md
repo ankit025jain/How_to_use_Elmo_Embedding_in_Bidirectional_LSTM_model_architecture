@@ -1,4 +1,5 @@
 # Text Mining
+# How_to_use_Elmo_Embedding_in_Bidirectional_LSTM_model_architecture
 # Predict ratings of customers based on their reviews.
 
 Based on the given customer reviews on the products and the reviews of the website about an E – commerce company. We have to predict the rating given by a customer based on the text data written in the review.
